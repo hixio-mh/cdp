@@ -9,6 +9,6 @@ require (
 	github.com/mafredri/go-lint v0.0.0-20180911205320-920981dfc79e
 	golang.org/x/mod v0.4.2 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210319071255-635bc2c9138d // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/tools v0.1.0 // indirect
 )
